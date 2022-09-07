@@ -1,1 +1,1 @@
-Anime character Classifier- with CNN (PyTorch)
+Anime faces with GAN
